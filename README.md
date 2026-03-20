@@ -1,2 +1,3 @@
-# prime-analytics-dashboard-64v7
-Automated issue comment bot repository
+# Prime Analytics Dashboard 64V7
+
+Automated issue comment bot repository.
